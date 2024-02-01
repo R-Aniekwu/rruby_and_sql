@@ -1,0 +1,2 @@
+class ActivityRelationship < ApplicationRecord
+end
